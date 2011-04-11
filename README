@@ -1,0 +1,6 @@
+An experiment to make the Jinfinite demo application work with
+gevent + socket.io + zeromq.
+
+Original source code:
+
+    https://github.com/sveith/jinfinote/tree/master/demo
